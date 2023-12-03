@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://seung-seop-ahn.github.io//sitemap.xml
+Sitemap: https://seung-seop-ahn.github.io/sitemap.xml
